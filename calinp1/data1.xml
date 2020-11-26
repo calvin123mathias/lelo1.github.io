@@ -1,0 +1,46 @@
+
+<te>
+<topic>
+<name> HTML </name>
+<features> Structure of the page </features>
+<Implement> All the pages </Implement>
+</topic>
+
+<topic>
+<name> CSS </name>
+<features> Designing , Annimation, Transition </features>
+<Implement> Home page , City Page, About Page , Gallary </Implement>
+</topic>
+
+<topic>
+<name> JavaScript </name>
+<features> Validation </features>
+<Implement> Sigh up page </Implement>
+</topic>
+
+<topic>
+<name> Media Query </name>
+<features> Responsive </features>
+<Implement> About Page </Implement>
+</topic>
+
+<topic>
+<name> XML </name>
+<features> Structure the Data </features>
+<Implement> About Page </Implement>
+</topic>
+
+<topic>
+<name> PHP </name>
+<features> server side scripting </features>
+<Implement> Sign up, Log in Page </Implement>
+</topic>
+
+<topic>
+<name> SQL </name>
+<features> Database </features>
+<Implement> Sighup, Login Page </Implement>
+</topic>
+
+
+</te>
